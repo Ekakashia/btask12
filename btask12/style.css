@@ -1,0 +1,309 @@
+@font-face{
+    font-family: Inter;
+    src: url(./Inter-Regular.ttf);
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-color: hsla(0, 0%, 0%, 1) !important;
+}
+.navigac{
+    background-color: hsla(0, 0%, 10%, 0.6);
+    height: 100px;
+    border-radius: 50px;
+}
+.a2{
+    font-family: Inter !important;
+    font-size: 24px !important;
+    font-weight: 400 !important;
+    line-height: 29px !important;
+    color: hsla(0, 0%, 100%, 1) !important;   
+}
+.bnav{
+    color: #000 !important;
+    text-align: center !important;
+    font-family: Inter !important;
+    font-size: 20px !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    line-height: normal !important;
+    width: 189px !important;
+    height: 53px !important;
+    background-color: hsla(0, 0%, 85%, 0.79) !important;
+    border-radius: 30px !important;
+}
+.block1{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.text1{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    opacity: 0.800000011920929;
+}
+.play{
+    width: 200px;
+    height: 66px;
+    background-color: hsla(0, 0%, 49%, 0.29);
+    border: 1px solid hsla(0, 0%, 100%, 0.2);
+    border-radius: 12px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.App{
+    width: 200px;
+    height: 66px;
+    background-color: hsla(0, 0%, 85%, 0.9);
+    border: 1px solid hsla(0, 0%, 85%, 0.9);
+    border-radius: 12px;
+    color: hsla(0, 0%, 0%, 1);
+    text-align: center;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.card_{
+    height: 320px;
+    background-color: hsla(0, 0%, 100%, 0.08);
+    border: 2px solid hsla(0, 0%, 100%, 0.12);
+    border-radius: 40px;
+}
+.card1{
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: linear-gradient(270deg, #B72346 0%, #C5882D 90.3%);
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.pcard1{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    opacity: 0.6000000238418579;
+}
+.p_card1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.card2{
+    background: linear-gradient(270deg, #4431BA 0%, #979DD8 90.3%);
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.card3_{
+    background: linear-gradient(270deg, #30AE35 0%, #236D49 90.3%);
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.card4_{
+    background: linear-gradient(270deg, #EDB628 0%, #705612 90.3%);
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.cardfire{
+    left: 480px;
+    bottom: 250px;
+}
+.cardway{
+    right: 10px;
+    bottom: 250px;
+}
+.cardscale{
+    left: 480px;
+    bottom: 250px;
+}
+.cardpeople{
+    right: 10px;
+    bottom: 250px;
+}
+.steps{
+    width: 235px;
+    height: 235px;
+}
+.currency{
+    width: 235px;
+    height: 235px;
+}
+.tasks{
+    width: 235px;
+    height: 235px;
+}
+.task{
+    margin-left: -30px;
+}
+.p_earn{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.better{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+ }
+ .p_better{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    opacity: 0.6000000238418579;
+ }
+ .img{
+    margin-left: 50px;
+ }
+ .applink{
+    color: #5283FF !important;
+    font-family: Inter !important;
+    font-size: 24px !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+     text-decoration: none !important;
+    line-height: normal !important;
+ }
+ .plevel{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    opacity: 0.5;
+ }
+ .cxrili{
+    background-color: hsla(0, 0%, 0%, 0.6);
+    height: 590px;
+    border: 2px solid hsla(0, 0%, 100%, 0.12) !important;
+ }
+ th{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+ }
+ td{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    opacity: 0.4000000059604645;
+ }
+ .Group84{
+    width: 980px;
+ }
+ .Group88{
+    width: 780px;
+ }
+ .owner{
+    height: 300px;
+    background-color: hsla(0, 0%, 100%, 0.08);
+    border: 2px solid hsla(0, 0%, 100%, 0.12);
+    border-radius: 32px;
+ }
+ .p_owner{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+ }
+ .p_owner1{
+    color: rgba(255, 255, 255, 0.80);
+    text-align: center;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    opacity: 0.6000000238418579;
+ }
+ .accbtn{
+    background-color: hsla(0, 0%, 100%, 0.08) !important;
+    border: 2px solid hsla(0, 0%, 100%, 0.12) !important;
+    color: hsla(0, 0%, 100%, 1) !important;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+ }
+ .accord{
+    margin-left: 870px;
+ }
+ .accp{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 25px;
+ }
+ @media screen and (max-width:1366px) {
+    .cardfire{
+        left: 415px;
+    }
+    .cardscale{
+        left: 415px;
+    }
+ }
